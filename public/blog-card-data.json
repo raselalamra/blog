@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "picture": "https://flexiblog-beauty.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp",
+    "title": "Three New Outfit Formulas To Add To Your Capsule Wardrobe",
+    "description": "Anim qui ut laboris aliqua non sit pariatur excepteur minim. Qui reprehenderit aliquip deserunt officia magna incididunt anim. Incididunt do sunt minim reprehenderit incididunt ex. Consectetur irure voluptate veniam nisi nulla ex dolor anim. Proident elit adipisicing dolor voluptate cillum nostrud ad sunt culpa ea ad. Veniam excepteur voluptate nulla pariatur nisi adipisicing proident minim et consequat amet exercitation deserunt do.",
+    "username": "Jane Smith",
+    "name": "Fashion & Style",
+    "date": "january 14,2023",
+    "img": "https://flexiblog-beauty.netlify.app/static/aca5ac9a14136b7ba5bb4daa5948e469/f47df/image.webp"
+  },
+  {
+    "id": "2",
+    "picture": "https://flexiblog-beauty.netlify.app/static/177387e6e627ed30ec5f5decfce1456f/a3542/florrie-jacobs.webp",
+    "title": "My Current Routiine & Top Five Skincare Tips",
+    "description": "Sint dolor magna reprehenderit cillum adipisicing ullamco ipsum velit elit velit occaecat. Lorem nisi laborum enim cupidatat adipisicing esse aute veniam nulla elit sit consectetur sunt. Eiusmod sit quis nostrud voluptate ullamco commodo reprehenderit esse nisi sunt. Minim enim consequat minim adipisicing in nisi dolore officia Lorem. Ullamco anim cupidatat nostrud eu duis dolore eiusmod mollit magna id anim dolor ex sit.",
+    "username": "Florrie Jacobs",
+    "name": "Fashion & Style",
+    "date": "January 17,2023",
+    "img": "https://flexiblog-beauty.netlify.app/static/8807c13d2dd1348cb6c70e482eac1e90/f47df/image.webp"
+  },
+  {
+    "id": "3",
+    "picture": "https://flexiblog-beauty.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/a3542/steve-grant.webp",
+    "title": "Charlie and the Chocolate Ractory Afternoon Tea",
+    "description": "Aliquip ut pariatur quis laborum officia voluptate sit cupidatat cupidatat. Occaecat eiusmod duis anim duis proident consectetur. Cupidatat consectetur Lorem in voluptate laborum mollit commodo.",
+    "username": "Steve Grant",
+    "name": "Food & Wellness",
+    "date": "january 22,2023"
+  },
+  {
+    "id": "4",
+    "picture": "https://flexiblog-beauty.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+    "title": "How This Supplement Satisfied My Sweet Tooth",
+    "description": "Sit commodo cillum mollit et aliqua ipsum deserunt incididunt excepteur culpa. Duis sit excepteur excepteur ut culpa. Mollit exercitation nisi labore ex anim voluptate aute veniam aliqua. Nulla aute nisi Lorem aliquip fugiat dolore.",
+    "username": "Jane Smith",
+    "name": "Food & Wellness",
+    "date": "january 24,2023"
+  }
+]
