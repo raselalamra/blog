@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <div>
-      <h1 className="text-3xl text-gray-500 mt-4 font-serif">
+      <h1 className="text-3xl text-rasel-400 mt-4 font-serif">
         Contact Details
       </h1>
       <div className="block p-6 rounded-lg shadow-lg bg-white max-w-md mx-auto">
@@ -17,14 +17,14 @@ const Contact = () => {
         py-1.5
         text-base
         font-normal
-        text-gray-700
+        text-rasel-700
         bg-white bg-clip-padding
         border border-solid border-gray-300
         rounded
         transition
         ease-in-out
         m-0
-        focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"
+        focus:text-rasel-700 focus:bg-white focus:border-blue-600 focus:outline-none"
               id="exampleInput7"
               placeholder="Name"
               required
@@ -96,7 +96,7 @@ const Contact = () => {
       w-full
       px-6
       py-2.5
-      bg-gray-500
+      bg-rasel-400
       text-white
       font-medium
       text-xs
@@ -104,9 +104,9 @@ const Contact = () => {
       uppercase
       rounded
       shadow-md
-      hover:bg-gray-400 hover:shadow-lg
-      focus:bg-gray-600 focus:shadow-lg focus:outline-none focus:ring-0
-      active:bg-gray-600 active:shadow-lg
+      hover:bg-rasel-600 hover:shadow-lg
+      focus:bg-rasel-600 focus:shadow-lg focus:outline-none focus:ring-0
+      active:bg-rasel-600 active:shadow-lg
       transition
       duration-150
       ease-in-out"

@@ -11,7 +11,7 @@ const Navbar = () => {
     { id: 1, name: "CONTACT", path: "/contact" },
   ];
   return (
-    <nav className="bg-gray-200 w-full p-4 sticky top-0">
+    <nav className="bg-gray-200 w-full p-4 sticky top-0 ">
       <div onClick={() => setOpen(!open)} className="h-6 w-6 md:hidden">
         {open ? <XMarkIcon /> : <Bars3Icon />}
       </div>

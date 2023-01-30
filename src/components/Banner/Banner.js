@@ -1,8 +1,7 @@
 import React from "react";
-import img from "../../img/banner/fashion.jpg";
-import img2 from "../../img/banner/fashionlifestyle.jpg";
-import img5 from "../../img/banner/66.jpg";
-import img6 from "../../img/banner/77.jpg";
+import img from "../../img/banner/fashionlifestyle.jpg";
+import img2 from "../../img/banner/banner.jpg";
+import img3 from "../../img/banner/banner3.jpg";
 
 const Banner = () => {
   return (
@@ -49,10 +48,10 @@ const Banner = () => {
 
         {/* <!-- Single item --> */}
         <div className="carousel-item relative float-left w-full">
-          <img src={img5} className="block w-full" alt="Mountaintop" />
+          <img src={img2} className="block w-full" alt="Mountaintop" />
           <div className="carousel-caption hidden md:block absolute text-center">
             <h5 className="text-4xl text-stone-50 font-serif">
-              FOOD & WENLESS
+              FASHION & STYLES
             </h5>
             <p className="text-stone-50 font-serif text-xl">
               Some representative placeholder content for the second slide.
@@ -62,10 +61,10 @@ const Banner = () => {
 
         {/* <!-- Single item --> */}
         <div className="carousel-item relative float-left w-full">
-          <img src={img2} className="block w-full" alt="Woman Reading a Book" />
+          <img src={img3} className="block w-full" alt="Woman Reading a Book" />
           <div className="carousel-caption hidden md:block absolute text-center">
             <h5 className="text-4xl text-white font-serif">
-              Third slide label
+            The inner glow burns forever
             </h5>
             <p className="text-current font-serif text-xl">
               Some representative placeholder content for the third slide.
